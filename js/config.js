@@ -1,0 +1,1 @@
+window.RANFY_API_URL = "https://teste-original.vercel.app";
